@@ -1,9 +1,7 @@
 
 /*
 
-Name : ARITRA KUMAR
-Roll No. 302211001010
-BE IT UG2 A3
+
 
 16) A bookshop maintains the inventory of books that are being sold at the shop. The list
 includes details such as author, title, publisher, cost and stock position. Whenever a customer
