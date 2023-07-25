@@ -1,9 +1,7 @@
 
 /*
 
-Name : ARITRA KUMAR
-Roll No. 302211001010
-BE IT UG2 A3
+
 
 22) Consider a file that contains a number of integers. Create two threads. Call them ‘producer’
 and ‘consumer’ thread. Producer thread will be reading the integers from the file continuously
