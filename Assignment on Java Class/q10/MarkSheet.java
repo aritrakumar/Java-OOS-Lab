@@ -1,9 +1,6 @@
 
 /*
 
-Name : ARITRA KUMAR
-Roll No. 302211001010
-BE IT UG2 A3
 
 10) Implement a class for a “Student”. Information about a student includes name, roll no and an
 array of five subject names. The class should have suitable constructor and get/set methods.
