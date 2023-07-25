@@ -1,9 +1,7 @@
 
 /*
 
-Name : ARITRA KUMAR
-Roll No. 302211001010
-BE IT UG2 A3
+
 
 6) Write a class to represent complex numbers with necessary constructors. Write member
 functions to add, multiply two complex numbers.
