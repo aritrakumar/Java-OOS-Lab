@@ -1,9 +1,7 @@
 
 /*
 
-Name : ARITRA KUMAR
-Roll No. 302211001010
-BE IT UG2 A3
+
 
 13) Implement a class for a “Person”. Person has data members ‘age’, ’weight’, ‘height’,
 ‘dateOfBirth’, ‘address’ with proper reader/write methods etc. Now create two subclasses
