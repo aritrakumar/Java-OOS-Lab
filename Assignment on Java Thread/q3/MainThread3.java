@@ -1,9 +1,7 @@
 
 /*
 
-Name : ARITRA KUMAR
-Roll No. 302211001010
-BE IT UG2 A3
+
 
 21) Consider the following series
 x = 1+1/1! +1/2! + 1/3! + ………1/10!
