@@ -2,9 +2,7 @@
 
 /*
 
-Name : ARITRA KUMAR
-Roll No. 302211001010
-BE IT UG2 A3
+
 
 7) Implement a class for “Date”. Write member functions for (i) getting the previous day, (iv)
 getting the next day, (iii) printing a day
