@@ -1,9 +1,7 @@
 
 /*
 
-Name : ARITRA KUMAR
-Roll No. 302211001010
-BE IT UG2 A3
+
 
 9) Write a Java class “Employee” containing information name, id, address, salary etc. Write
 necessary constructor and read/write methods.
