@@ -1,9 +1,7 @@
 
 /*
 
-Name : ARITRA KUMAR
-Roll No. 302211001010
-BE IT UG2 A3
+
 
 20) Create two threads and call them EvenThread and OddThread. EvenThread will print number
 as 2 4 6 8 10... and OddThread will print number as 1 3 5…. Now synchronize these two thread
