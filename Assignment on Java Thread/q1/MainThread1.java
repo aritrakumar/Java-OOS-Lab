@@ -1,9 +1,7 @@
 
 /*
 
-Name : ARITRA KUMAR
-Roll No. 302211001010
-BE IT UG2 A3
+
 
 19) Write a program to create two threads. Print “In main thread” in main thread and “In child
 thread” in child thread.
