@@ -1,9 +1,7 @@
 
 /*
 
-Name : ARITRA KUMAR
-Roll No. 302211001010
-BE IT UG2 A3
+
 
 25) Write a Java program using threading technology and print the thread index and location
 where the element has been found.
