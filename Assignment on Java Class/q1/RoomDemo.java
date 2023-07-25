@@ -1,8 +1,5 @@
 /*
 
-Name : ARITRA KUMAR
-Roll No. 302211001010
-BE IT UG2 A3
 
 1) Create a class “Room” which will hold the “height”, “width” and “breadth” of the room in
 three fields. This class also has a method “volume()” to calculate the volume of this room. Create
