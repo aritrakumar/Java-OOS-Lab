@@ -1,9 +1,7 @@
 
 /*
 
-Name : ARITRA KUMAR
-Roll No. 302211001010
-BE IT UG2 A3
+
 
 17) Imagine a toll booth and a bridge. Cars passing by the booth are expected to pay an amount
 of Rs. 50/- as toll tax. Mostly they do but sometimes a car goes by without paying. The toll booth
