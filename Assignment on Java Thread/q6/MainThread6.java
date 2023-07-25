@@ -1,9 +1,7 @@
 
 /*
 
-Name : ARITRA KUMAR
-Roll No. 302211001010
-BE IT UG2 A3
+
 
 24) Consider the following parallel binary search algorithm for series a1, a2…an sorted in
 increasing order such that n mod 10 = 0. Element to be searched is e.
