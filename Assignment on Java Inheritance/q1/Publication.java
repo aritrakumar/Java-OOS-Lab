@@ -1,9 +1,7 @@
 
 /*
 
-Name : ARITRA KUMAR
-Roll No. 302211001010
-BE IT UG2 A3
+
 
 11) Create an abstract class “Publication” with data members ‘noOfPages’, ‘price’,
 ‘publisherName’ etc. with their accessor/modifier functions. Now create two sub-classes “Book”
