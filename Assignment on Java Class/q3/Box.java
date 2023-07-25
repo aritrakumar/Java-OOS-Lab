@@ -1,8 +1,6 @@
 /*
 
-Name : ARITRA KUMAR
-Roll No. 302211001010
-BE IT UG2 A3
+
 
 3) Write a class “Box” that with three member-variables “height”, “width” and “breadth”. Write
 suitable constructors to initialize them. Add functions like “getVolume” and “getArea” that will
