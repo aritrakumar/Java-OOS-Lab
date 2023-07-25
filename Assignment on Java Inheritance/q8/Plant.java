@@ -1,9 +1,7 @@
 
 /*
 
-Name : ARITRA KUMAR
-Roll No. 302211001010
-BE IT UG2 A3
+
 
 18) Write two interfaces “Fruit” and “Vegetable” containing methods ‘hasAPeel’ and
 ‘hasARoot’. Now write a class “Tomato” implementing Fruit and Vegetable. Instantiate an
