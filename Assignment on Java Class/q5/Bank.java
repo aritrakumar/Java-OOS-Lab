@@ -1,9 +1,7 @@
 
 /*
 
-Name : ARITRA KUMAR
-Roll No. 302211001010
-BE IT UG2 A3
+
 
 5) Write a class “BankAccount” with the following instance variables:
 AccountNumber (an integer), balance a floating-point number), and “ownerName” (a String).
