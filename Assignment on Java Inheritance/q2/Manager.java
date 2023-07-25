@@ -1,9 +1,7 @@
 
 /*
 
-Name : ARITRA KUMAR
-Roll No. 302211001010
-BE IT UG2 A3
+
 
 12) Write a class for “Account” containing data members ‘accountNumber’, ‘holderName’,
 ‘balance’ and add constructors and necessary accessor/modifier functions for these data
