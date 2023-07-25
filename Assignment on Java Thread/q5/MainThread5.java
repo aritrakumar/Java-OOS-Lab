@@ -1,9 +1,7 @@
 
 /*
 
-Name : ARITRA KUMAR
-Roll No. 302211001010
-BE IT UG2 A3
+
 
 23) Consider the series 1+2+3+…+100. This can be considered as
 (1+3+5+…+99)+(2+4+6+…+100). Create two threads to compute two series in parallel (do not
