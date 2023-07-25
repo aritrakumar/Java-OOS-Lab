@@ -1,8 +1,6 @@
 /*
 
-Name : ARITRA KUMAR
-Roll No. 302211001010
-BE IT UG2 A3
+
 
 4) Implement a class for stack of integers using an array. Please note that the operations defined
 for a stack data structure are as follows: “push”, “pop”, “print”.
