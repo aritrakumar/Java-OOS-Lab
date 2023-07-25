@@ -1,9 +1,7 @@
 
 /*
 
-Name : ARITRA KUMAR
-Roll No. 302211001010
-BE IT UG2 A3
+
 
 8) Implement a class for a “Book”. Book contains a title (a String), a list of authors (array of
 authors), number of pages (an integer), price (floating point number), publisher (a String) etc.
