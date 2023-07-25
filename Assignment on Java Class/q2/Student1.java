@@ -1,8 +1,5 @@
 /*
 
-Name : ARITRA KUMAR
-Roll No. 302211001010
-BE IT UG2 A3
 
 
 2) Write a program to implement a class “student” with the following members.
